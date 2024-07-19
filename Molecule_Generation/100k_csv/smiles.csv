@@ -1,0 +1,4 @@
+"Worker died with {{function_node __wrapped__ConcatV2_N_2_device_/job:localhost/replica:0/task:0/device:CPU:0}} OOM when allocating tensor with shape[3410,104] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator cpu [Op:ConcatV2] name: concat"
+"Worker died with {{function_node __wrapped__ConcatV2_N_2_device_/job:localhost/replica:0/task:0/device:CPU:0}} OOM when allocating tensor with shape[2821,2435] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator cpu [Op:ConcatV2] name: concat"
+"Worker died with {{function_node __wrapped__ConcatV2_N_2_device_/job:localhost/replica:0/task:0/device:CPU:0}} OOM when allocating tensor with shape[2585,103] and type float on /job:localhost/replica:0/task:0/device:CPU:0 by allocator cpu [Op:ConcatV2] name: concat"
+Loading a trained model from: now\GNN_Edge_MLP_MoLeR__2024-07-09_19-57-49_best.pkl

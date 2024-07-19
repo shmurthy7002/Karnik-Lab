@@ -1,0 +1,37 @@
+Setting random seed 0.
+Dataset parameters: {"max_nodes_per_batch": 20000, "max_partial_nodes_per_batch": 25000, "trace_element_keep_prob": 0.4, "add_self_loop_edges": true, "tie_fwd_bkwd_edges": true, "graph_properties": {"sa_score": {"type": "regression", "graph_representation_size": 64, "graph_aggregation_num_heads": 8, "graph_aggregation_weighting_fun": "sigmoid", "graph_aggregation_hidden_layers": [], "predictor_mlp_layer_sizes": [], "loss_weight_factor": 0.02}, "clogp": {"type": "regression", "graph_representation_size": 64, "graph_aggregation_num_heads": 8, "graph_aggregation_weighting_fun": "sigmoid", "graph_aggregation_hidden_layers": [], "predictor_mlp_layer_sizes": [32], "loss_weight_factor": 0.02}, "mol_weight": {"type": "regression", "graph_representation_size": 16, "graph_aggregation_num_heads": 4, "graph_aggregation_weighting_fun": "sigmoid", "graph_aggregation_hidden_layers": [], "predictor_mlp_layer_sizes": [], "loss_weight_factor": 0.02}}, "data_reader_max_queue_size": 500, "data_reader_num_workers": 20, "trace_element_non_carbon_keep_prob": 0.5}
+Model parameters: {"gnn_aggregation_function": "sum", "gnn_message_activation_function": "leaky_relu", "gnn_message_activation_before_aggregation": false, "gnn_hidden_dim": 64, "gnn_use_target_state_as_input": true, "gnn_normalize_by_num_incoming": false, "gnn_num_edge_MLP_hidden_layers": 1, "gnn_message_calculation_class": "GNN_Edge_MLP", "gnn_initial_node_representation_activation": "tanh", "gnn_dense_intermediate_layer_activation": "tanh", "gnn_num_layers": 12, "gnn_dense_every_num_layers": 2, "gnn_residual_every_num_layers": 2, "gnn_use_inter_layer_layernorm": true, "gnn_layer_input_dropout_rate": 0.0, "gnn_global_exchange_mode": "gru", "gnn_global_exchange_every_num_layers": 2, "gnn_global_exchange_weighting_fun": "softmax", "gnn_global_exchange_num_heads": 4, "gnn_global_exchange_dropout_rate": 0.0, "optimizer": "Adam", "learning_rate": 0.001, "learning_rate_warmup_steps": null, "learning_rate_decay_steps": null, "momentum": 0.85, "rmsprop_rho": 0.98, "gradient_clip_value": 0.5, "gradient_clip_norm": null, "gradient_clip_global_norm": null, "use_intermediate_gnn_results": true, "latent_repr_size": 512, "node_classification_loss_weight": 1.0, "first_node_classification_loss_weight": 0.07, "edge_selection_loss_weight": 1.0, "edge_type_loss_weight": 1.0, "attachment_point_selection_weight": 1.0, "num_train_steps_between_valid": 5000, "logged_loss_smoothing_window_size": 100, "decoder_gnn_aggregation_function": "sum", "decoder_gnn_message_activation_function": "leaky_relu", "decoder_gnn_message_activation_before_aggregation": false, "decoder_gnn_hidden_dim": 64, "decoder_gnn_use_target_state_as_input": true, "decoder_gnn_normalize_by_num_incoming": false, "decoder_gnn_num_edge_MLP_hidden_layers": 1, "decoder_gnn_message_calculation_class": "GNN_Edge_MLP", "decoder_gnn_initial_node_representation_activation": "tanh", "decoder_gnn_dense_intermediate_layer_activation": "leaky_relu", "decoder_gnn_num_layers": 12, "decoder_gnn_dense_every_num_layers": 4, "decoder_gnn_residual_every_num_layers": 10000, "decoder_gnn_use_inter_layer_layernorm": true, "decoder_gnn_layer_input_dropout_rate": 0.0, "decoder_gnn_global_exchange_mode": "gru", "decoder_gnn_global_exchange_every_num_layers": 10000, "decoder_gnn_global_exchange_weighting_fun": "softmax", "decoder_gnn_global_exchange_num_heads": 4, "decoder_gnn_global_exchange_dropout_rate": 0.0, "decoder_graph_repr_size": 256, "decoder_graph_repr_mlp_layers": [256, 256], "decoder_graph_repr_num_heads": 16, "decoder_graph_repr_dropout_rate": 0.0, "decoder_categorical_features_embedding_dim": 64, "decoder_num_edge_types_to_classify": 3, "decoder_edge_candidate_scorer_hidden_layers": [128, 64, 32], "decoder_edge_type_selector_hidden_layers": [128, 64, 32], "decoder_edge_selection_dropout_rate": 0.0, "decoder_distance_truncation": 10, "decoder_compatible_distance_embedding_init": true, "decoder_node_type_selector_hidden_layers": [256, 256], "decoder_node_selection_dropout_rate": 0.0, "decoder_first_node_type_selector_hidden_layers": [256, 256], "decoder_first_node_type_selection_dropout_rate": 0.0, "decoder_attachment_point_selector_hidden_layers": [128, 64, 32], "decoder_attachment_point_selection_dropout_rate": 0.0, "decoder_max_nodes_per_batch": 10000, "categorical_features_embedding_dim": 64, "latent_repr_mlp_layers": [512, 512], "latent_repr_num_heads": 32, "latent_repr_dropout_rate": 0.0, "latent_sample_strategy": "per_graph", "property_predictor_mlp_layers": [64, 32], "property_predictor_mlp_dropout_rate": 0.0, "kl_divergence_weight": 0.02, "kl_divergence_annealing_beta": 0.999}
+Num train steps between valid: 5000
+Num valid steps: None
+Initial valid metric: 
+Avg weighted sum. of graph losses:  19.6644
+Avg weighted sum. of prop losses:   0.4418
+Avg node class. loss:                 12.8304
+Avg first node class. loss:           10.0034
+Avg edge selection loss:              1.1730
+Avg edge type loss:                   0.0000
+Avg attachment point selection loss:  0.0000
+Avg KL divergence:                    9476.6836
+Property results: sa_score: MAE 1.77, MSE 3.15 (norm MAE: 7.56) | clogp: MAE 0.80, MSE 0.64 (norm MAE: 0.74) | mol_weight: MAE 444.79, MSE 197837.75 (norm MAE: 13.80).
+== Results after 5000 training steps
+ Train:  0.0020 loss | 
+Avg weighted sum. of graph losses:  0.3313
+Avg weighted sum. of prop losses:   0.0464
+Avg node class. loss:                 0.0412
+Avg first node class. loss:           0.2018
+Avg edge selection loss:              0.0589
+Avg edge type loss:                   0.0003
+Avg attachment point selection loss:  0.0074
+Avg KL divergence:                    22.9256
+Property results: sa_score: MAE 0.18, MSE 0.06 (norm MAE: 0.78) | clogp: MAE 0.43, MSE 0.35 (norm MAE: 0.40) | mol_weight: MAE 36.80, MSE 3392.19 (norm MAE: 1.14) | 26.59 graphs/s
+ Valid:  10.5005 loss | 
+Avg weighted sum. of graph losses:  10.5005
+Avg weighted sum. of prop losses:   0.0597
+Avg node class. loss:                 9.9136
+Avg first node class. loss:           0.7943
+Avg edge selection loss:              0.3615
+Avg edge type loss:                   0.0000
+Avg attachment point selection loss:  0.0000
+Avg KL divergence:                    4.5015
+Property results: sa_score: MAE 0.43, MSE 0.18 (norm MAE: 1.83) | clogp: MAE 0.69, MSE 0.48 (norm MAE: 0.64) | mol_weight: MAE 16.77, MSE 281.24 (norm MAE: 0.52) | 0.04 graphs/s
+  (Best results so far, target metric decreased from 20.10625 to 10.56021.)

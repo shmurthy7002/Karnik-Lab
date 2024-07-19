@@ -1,0 +1,256 @@
+
+     RDKit          2D
+
+ 49 54  0  0  0  0  0  0  0  0999 V2000
+    7.0590   -0.1541    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6712   -3.9023    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9508   -3.4900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3344   -0.5539    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2386   -3.9023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6712   -4.7352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9508   -5.1475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7879    0.2332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1022   -3.4983    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2386   -4.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3858   -3.9106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5265   -3.4900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8143   -3.9106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4833   -0.2041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6264   -0.1166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3594    0.2749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0340   -0.9787    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3876   -3.4983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3858   -4.7352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9508   -2.6654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4500   -1.0287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6737   -3.4983    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5265   -5.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8143   -4.7352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6514    0.7080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1497   -1.4660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7212   -1.4160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3876   -2.6737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6737   -5.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3834   -5.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0980   -2.6737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6879   -2.2406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1205   -2.2906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6737   -5.9721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8129    1.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2122    0.1832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7477   -0.5914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9532   -6.3761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3858   -6.3761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3834   -5.9721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3401   -2.3405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5458    1.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2454    0.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8398   -0.5914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0955   -6.3886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3858   -7.2007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9532   -7.2007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3401   -1.4368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6654   -7.6130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2 18  1  0
+  3  2  1  0
+  4  1  1  0
+  5  3  1  0
+  6  2  1  0
+  7  6  2  0
+  8  1  1  0
+  9 31  1  0
+ 10  7  1  0
+ 11  9  1  0
+ 12 13  1  0
+ 13  9  1  0
+ 14  8  2  0
+ 15  4  1  0
+ 16  1  2  0
+ 17  1  2  0
+ 18 28  1  0
+ 19 11  1  0
+ 20  3  2  0
+ 21 14  1  0
+ 22 11  2  0
+ 23 24  1  0
+ 24 13  2  0
+ 25 15  2  0
+ 26 21  1  0
+ 27 21  2  0
+ 28 32  2  0
+ 29 19  1  0
+ 30  6  1  0
+ 31 41  1  0
+ 32 27  1  0
+ 33 26  2  0
+ 34 29  1  0
+ 35  8  1  0
+ 36 14  1  0
+ 37 15  1  0
+ 38 34  2  0
+ 39 34  1  0
+ 40 30  1  0
+ 41 48  1  0
+ 42 35  2  0
+ 43 42  1  0
+ 44 37  1  0
+ 45 40  1  0
+ 46 39  2  0
+ 47 38  1  0
+ 48 44  1  0
+ 49 46  1  0
+ 43 36  2  0
+ 33 28  1  0
+ 12  5  2  0
+ 10  5  1  0
+ 10 23  2  0
+ 49 47  2  0
+M  END
+>  <From>  (1) 
+www.bindingDB.org
+
+>  <BindingDB Reactant_set_id>  (1) 
+50006265
+
+>  <Ligand InChI>  (1) 
+InChI=1S/C38H38N4O6S/c1-2-11-35-39-33-22-21-30-24-32(33)37(44)42(35)25-27-17-19-29(20-18-27)31-14-8-9-15-34(31)49(46,47)40-36(43)16-7-4-10-23-41(30)38(45)48-26-28-12-5-3-6-13-28/h3,5-6,8-9,12-15,17-22,24H,2,4,7,10-11,16,23,25-26H2,1H3,(H,40,43)
+
+>  <Ligand InChI Key>  (1) 
+LEMLUMMISIHZGH-UHFFFAOYSA-N
+
+>  <BindingDB MonomerID>  (1) 
+50289171
+
+>  <BindingDB Ligand Name>  (1) 
+CHEMBL172376::Macrocyclic Quinazolinone analogue
+
+>  <Target Name>  (1) 
+Type-1 angiotensin II receptor
+
+>  <Target Source Organism According to Curator or DataSource>  (1) 
+Oryctolagus cuniculus
+
+>  <Ki (nM)>  (1) 
+
+
+>  <IC50 (nM)>  (1) 
+ 23
+
+>  <Kd (nM)>  (1) 
+
+
+>  <EC50 (nM)>  (1) 
+
+
+>  <kon (M-1-s-1)>  (1) 
+
+
+>  <koff (s-1)>  (1) 
+
+
+>  <pH>  (1) 
+
+
+>  <Temp C>  (1) 
+
+
+>  <Curation/DataSource>  (1) 
+ChEMBL
+
+>  <Article DOI>  (1) 
+10.1016/0960-894X(96)00116-3
+
+>  <BindingDB Entry DOI>  (1) 
+10.7270/Q2MC900D
+
+>  <PMID>  (1) 
+
+
+>  <PubChem AID>  (1) 
+
+
+>  <Patent Number>  (1) 
+
+
+>  <Authors>  (1) 
+de Laszlo, SE; Glinka, TW; Greenlee, WJ; Ball, R; Nachbar, RB; Prendergast, K
+
+>  <Institution>  (1) 
+TBA
+
+>  <Link to Ligand in BindingDB>  (1) 
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50289171
+
+>  <Link to Ligand-Target Pair in BindingDB>  (1) 
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50289171&enzyme=Type-1+angiotensin+II+receptor&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Ligand HET ID in PDB>  (1) 
+
+
+>  <PDB ID(s) for Ligand-Target Complex>  (1) 
+
+
+>  <PubChem CID of Ligand>  (1) 
+44211673
+
+>  <PubChem SID of Ligand>  (1) 
+104130742
+
+>  <ChEBI ID of Ligand>  (1) 
+
+
+>  <ChEMBL ID of Ligand>  (1) 
+CHEMBL172376
+
+>  <DrugBank ID of Ligand>  (1) 
+
+
+>  <IUPHAR_GRAC ID of Ligand>  (1) 
+
+
+>  <KEGG ID of Ligand>  (1) 
+
+
+>  <ZINC ID of Ligand>  (1) 
+ZINC03843021
+
+>  <Number of Protein Chains in Target (bigger than 1 implies a multichain complex)>  (1) 
+1
+
+>  <BindingDB Target Chain Sequence>  (1) 
+MMLNSSTEDGIKRIQDDCPKAGRHNYIFVMIPTLYSIIFVVGIFGNSLAVIVIYFYMKLKTVASVFLLNLALADLCFLLTLPLWAVYTAMEYRWPFGNYLCKIASASVSFNLYASVFLLTCLSIDRYLAIVHPMKSRLRRTMLVAKVTCIIIWLLAGLASLPAIIHRNVFFIENTNITVCAFHYESQNSTLPIGLGLTKNILGFLFPFLIILTSYTLIWKALKKAYEIQKNKPRNDDIFKIIMAIVLFFFFSWVPHQIFTFLDVLIQLGVIHDCRIADIVDTAMPITICIAYFNNCLNPLFYGFLGKKFKKYFLQLLKYIPPKAKSHSNLSTKMSTLSYRPSDNVSSSSKKPVPCFEVE
+
+>  <PDB ID(s) of Target Chain>  (1) 
+6DO1,6OS0,6OS1,6OS2
+
+>  <UniProt (SwissProt) Recommended Name of Target Chain>  (1) 
+Type-1 angiotensin II receptor
+
+>  <UniProt (SwissProt) Entry Name of Target Chain>  (1) 
+AGTR1_RABIT
+
+>  <UniProt (SwissProt) Primary ID of Target Chain>  (1) 
+P34976
+
+>  <UniProt (SwissProt) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (SwissProt) Alternative ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Submitted Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Entry Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Primary ID of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Alternative ID(s) of Target Chain>  (1) 
+
+
+$$$$

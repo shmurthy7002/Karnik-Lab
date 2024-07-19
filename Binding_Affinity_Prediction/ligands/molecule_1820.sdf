@@ -1,0 +1,223 @@
+
+     RDKit          2D
+
+ 33 37  0  0  0  0  0  0  0  0999 V2000
+   -4.0973   -2.4666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0984   -3.2940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3836   -3.7069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6672   -3.2935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6700   -2.4630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3854   -2.0539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9571   -2.0478    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2411   -2.4576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3750   -1.3292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5500   -1.3292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5281   -2.0423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2516   -2.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7434   -1.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2653   -0.9737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5218   -1.2206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5683   -1.6547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4966   -3.0963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3907   -1.2317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6758   -0.8177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6779    0.0065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3942    0.4177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1098   -0.0014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1042   -0.8242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3978    1.2427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1142    1.6519    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1230    2.4738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9110    2.7181    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8929    1.3834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3878    2.0469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2089    1.9493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5410    1.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0410    0.5252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2158    0.6262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 13 16  1  0
+  7  8  1  0
+ 12 17  1  0
+  7  9  2  0
+ 18 19  2  0
+  4  5  2  0
+ 19 20  1  0
+  7 10  2  0
+ 20 21  2  0
+  2  3  2  0
+ 21 22  1  0
+  8 11  1  0
+ 22 23  2  0
+ 23 18  1  0
+  6 18  1  0
+ 11 12  2  0
+ 21 24  1  0
+  5  6  1  0
+ 24 25  1  0
+ 25 26  1  0
+  6  1  2  0
+  1  2  1  0
+ 26 27  2  0
+ 27 29  1  0
+ 28 25  1  0
+  5  7  1  0
+ 12 13  1  0
+ 28 29  2  0
+ 13 14  2  0
+ 29 30  1  0
+ 14 15  1  0
+ 30 31  2  0
+ 15 11  1  0
+ 31 32  1  0
+  3  4  1  0
+ 32 33  2  0
+ 33 28  1  0
+M  END
+>  <From>  (1) 
+www.bindingDB.org
+
+>  <BindingDB Reactant_set_id>  (1) 
+50945413
+
+>  <Ligand InChI>  (1) 
+InChI=1S/C25H22N4O3S/c1-17-18(2)27-32-25(17)28-33(30,31)24-10-6-3-7-21(24)20-13-11-19(12-14-20)15-29-16-26-22-8-4-5-9-23(22)29/h3-14,16,28H,15H2,1-2H3
+
+>  <Ligand InChI Key>  (1) 
+KXEGSRYENWAYGG-UHFFFAOYSA-N
+
+>  <BindingDB MonomerID>  (1) 
+50387806
+
+>  <BindingDB Ligand Name>  (1) 
+CHEMBL2058366
+
+>  <Target Name>  (1) 
+Type-1 angiotensin II receptor
+
+>  <Target Source Organism According to Curator or DataSource>  (1) 
+Bos taurus
+
+>  <Ki (nM)>  (1) 
+
+
+>  <IC50 (nM)>  (1) 
+ 92
+
+>  <Kd (nM)>  (1) 
+
+
+>  <EC50 (nM)>  (1) 
+
+
+>  <kon (M-1-s-1)>  (1) 
+
+
+>  <koff (s-1)>  (1) 
+
+
+>  <pH>  (1) 
+
+
+>  <Temp C>  (1) 
+
+
+>  <Curation/DataSource>  (1) 
+ChEMBL
+
+>  <Article DOI>  (1) 
+10.1016/j.bmc.2012.06.011
+
+>  <BindingDB Entry DOI>  (1) 
+10.7270/Q2G73FS6
+
+>  <PMID>  (1) 
+22750010
+
+>  <PubChem AID>  (1) 
+
+
+>  <Patent Number>  (1) 
+
+
+>  <Authors>  (1) 
+Bai, R; Wei, Z; Liu, J; Xie, W; Yao, H; Wu, X; Jiang, J; Wang, Q; Xu, J
+
+>  <Institution>  (1) 
+China Pharmaceutical University
+
+>  <Link to Ligand in BindingDB>  (1) 
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50387806
+
+>  <Link to Ligand-Target Pair in BindingDB>  (1) 
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50387806&enzyme=Type-1+angiotensin+II+receptor&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Ligand HET ID in PDB>  (1) 
+
+
+>  <PDB ID(s) for Ligand-Target Complex>  (1) 
+
+
+>  <PubChem CID of Ligand>  (1) 
+70686380
+
+>  <PubChem SID of Ligand>  (1) 
+160866889
+
+>  <ChEBI ID of Ligand>  (1) 
+
+
+>  <ChEMBL ID of Ligand>  (1) 
+CHEMBL2058366
+
+>  <DrugBank ID of Ligand>  (1) 
+
+
+>  <IUPHAR_GRAC ID of Ligand>  (1) 
+
+
+>  <KEGG ID of Ligand>  (1) 
+
+
+>  <ZINC ID of Ligand>  (1) 
+ZINC84710534
+
+>  <Number of Protein Chains in Target (bigger than 1 implies a multichain complex)>  (1) 
+1
+
+>  <BindingDB Target Chain Sequence>  (1) 
+MILNSSTEDGIKRIQDDCPKAGRHNYIFIMIPTLYSIIFVVGIFGNSLVVIVIYFYMKLKTVASVFLLNLALADLCFLLTLPLWAVYTAMEYRWPFGNYLCKIASASVSFNLYASVFLLTCLSIDRYLAIVHPMKSRLRRTMLVAKVTCIIIWLLAGLASLPTIIHRNVFFIENTNITVCAFHYESQNSTLPVGLGLTKNILGFLFPFLIILTSYTLIWKTLKKAYEIQKNKPRKDDIFKIILAIVLFFFFSWVPHQIFTFMDVLIQLGLIRDCKIEDIVDTAMPITICLAYFNNCLNPLFYGFLGKKFKKYFLQLLKYIPPKAKSHSNLSTKMSTLSYRPSENGNSSTKKPAPCIEVE
+
+>  <PDB ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (SwissProt) Recommended Name of Target Chain>  (1) 
+Type-1 angiotensin II receptor
+
+>  <UniProt (SwissProt) Entry Name of Target Chain>  (1) 
+AGTR1_BOVIN
+
+>  <UniProt (SwissProt) Primary ID of Target Chain>  (1) 
+P25104
+
+>  <UniProt (SwissProt) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (SwissProt) Alternative ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Submitted Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Entry Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Primary ID of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Alternative ID(s) of Target Chain>  (1) 
+
+
+$$$$

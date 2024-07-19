@@ -1,0 +1,246 @@
+
+     RDKit          2D
+
+ 45 48  0  0  0  0  0  0  0  0999 V2000
+    2.5151    1.9363    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0529    0.6871    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5465   -0.6996    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7400    1.1451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6906    1.9696    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5382    0.1249    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4033    1.1992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2503    0.5455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9706    0.1374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7233    3.3562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0273    2.5859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9030    3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6827    0.5621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5132   -1.5240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7887   -1.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0154   -0.1374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3710   -0.6996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7220   -0.6913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5103    0.8578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2461    1.3699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0974   -1.4616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9748   -0.6871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4533    4.1891    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2659    2.8732    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1618    3.5686    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3240    0.9452    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4864    0.2623    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8118    1.4116    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3646   -1.8405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1266   -0.6371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7108   -0.5788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6121    0.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2272    3.9933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4353   -0.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6650   -1.4033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8393    2.4610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2128   -1.9613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7512   -2.7275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0167    1.5573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7703    1.3367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0475    3.8809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3515    3.1064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4466   -3.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1753   -2.7900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3616    1.9196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0
+  3 14  1  0
+  4  1  1  0
+  5  1  1  0
+  6  3  1  0
+  7  5  2  0
+  8  6  1  0
+  9  8  1  0
+ 10 11  2  0
+ 11  1  1  0
+ 12 10  1  0
+ 13  9  1  0
+ 14 15  2  0
+ 15 21  1  0
+ 16  2  1  0
+ 17  3  2  0
+ 18  3  2  0
+ 19  4  2  0
+ 20  8  2  0
+ 21 29  2  0
+ 22  9  2  0
+ 23 12  1  0
+ 24 12  1  0
+ 25 12  1  0
+ 26 13  1  0
+ 27 13  1  0
+ 28 13  1  0
+ 29 35  1  0
+ 30 34  2  0
+ 31 16  1  0
+ 32  7  1  0
+ 33 10  1  0
+ 34 31  1  0
+ 35 31  2  0
+ 36 11  1  0
+ 37 14  1  0
+ 38 15  1  0
+ 39 32  1  0
+ 40 39  1  0
+ 41 42  1  0
+ 42 36  2  0
+ 43 38  2  0
+ 44 43  1  0
+ 45 40  1  0
+  2  7  1  0
+ 41 33  2  0
+ 21 30  1  0
+ 37 44  2  0
+M  END
+>  <From>  (1) 
+www.bindingDB.org
+
+>  <BindingDB Reactant_set_id>  (1) 
+50002527
+
+>  <Ligand InChI>  (1) 
+InChI=1S/C29H24F6N4O5S/c1-2-3-12-24-36-39(22-10-6-5-9-21(22)28(30,31)32)27(42)38(24)17-18-13-15-19(16-14-18)20-8-4-7-11-23(20)45(43,44)37-26(41)25(40)29(33,34)35/h4-11,13-16H,2-3,12,17H2,1H3,(H,37,41)
+
+>  <Ligand InChI Key>  (1) 
+HYMSVJNRMBHIBK-UHFFFAOYSA-N
+
+>  <BindingDB MonomerID>  (1) 
+50282212
+
+>  <BindingDB Ligand Name>  (1) 
+4'-[3-Butyl-5-oxo-1-(2-trifluoromethyl-phenyl)-1,5-dihydro-[1,2,4]triazol-4-ylmethyl]-biphenyl-2-sulfonic acid (3,3,3-trifluoro-2-oxo-propionyl)-amide::CHEMBL278977
+
+>  <Target Name>  (1) 
+Type-1 angiotensin II receptor
+
+>  <Target Source Organism According to Curator or DataSource>  (1) 
+Oryctolagus cuniculus
+
+>  <Ki (nM)>  (1) 
+
+
+>  <IC50 (nM)>  (1) 
+ 0.800000
+
+>  <Kd (nM)>  (1) 
+
+
+>  <EC50 (nM)>  (1) 
+
+
+>  <kon (M-1-s-1)>  (1) 
+
+
+>  <koff (s-1)>  (1) 
+
+
+>  <pH>  (1) 
+
+
+>  <Temp C>  (1) 
+
+
+>  <Curation/DataSource>  (1) 
+ChEMBL
+
+>  <Article DOI>  (1) 
+10.1016/S0960-894X(01)81132-X
+
+>  <BindingDB Entry DOI>  (1) 
+10.7270/Q2057FT4
+
+>  <PMID>  (1) 
+
+
+>  <PubChem AID>  (1) 
+
+
+>  <Patent Number>  (1) 
+
+
+>  <Authors>  (1) 
+Chang, LL; Ashton, WT; Flanagan, KL; Naylor, EM; Chakravarty, PK; Patchett, AA; Greenlee, WJ; Bendesky, RJ; Chen, TB; Faust, KA; Kling, PJ; Schaffer, LW; Schorn, TW; Zingaro, GJ; Chang, RS; Lotti, VJ; Kivlighn, SD; Siegl, PK
+
+>  <Institution>  (1) 
+TBA
+
+>  <Link to Ligand in BindingDB>  (1) 
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50282212
+
+>  <Link to Ligand-Target Pair in BindingDB>  (1) 
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50282212&enzyme=Type-1+angiotensin+II+receptor&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Ligand HET ID in PDB>  (1) 
+
+
+>  <PDB ID(s) for Ligand-Target Complex>  (1) 
+
+
+>  <PubChem CID of Ligand>  (1) 
+44272247
+
+>  <PubChem SID of Ligand>  (1) 
+104123886
+
+>  <ChEBI ID of Ligand>  (1) 
+
+
+>  <ChEMBL ID of Ligand>  (1) 
+CHEMBL278977
+
+>  <DrugBank ID of Ligand>  (1) 
+
+
+>  <IUPHAR_GRAC ID of Ligand>  (1) 
+
+
+>  <KEGG ID of Ligand>  (1) 
+
+
+>  <ZINC ID of Ligand>  (1) 
+ZINC28222178
+
+>  <Number of Protein Chains in Target (bigger than 1 implies a multichain complex)>  (1) 
+1
+
+>  <BindingDB Target Chain Sequence>  (1) 
+MMLNSSTEDGIKRIQDDCPKAGRHNYIFVMIPTLYSIIFVVGIFGNSLAVIVIYFYMKLKTVASVFLLNLALADLCFLLTLPLWAVYTAMEYRWPFGNYLCKIASASVSFNLYASVFLLTCLSIDRYLAIVHPMKSRLRRTMLVAKVTCIIIWLLAGLASLPAIIHRNVFFIENTNITVCAFHYESQNSTLPIGLGLTKNILGFLFPFLIILTSYTLIWKALKKAYEIQKNKPRNDDIFKIIMAIVLFFFFSWVPHQIFTFLDVLIQLGVIHDCRIADIVDTAMPITICIAYFNNCLNPLFYGFLGKKFKKYFLQLLKYIPPKAKSHSNLSTKMSTLSYRPSDNVSSSSKKPVPCFEVE
+
+>  <PDB ID(s) of Target Chain>  (1) 
+6DO1,6OS0,6OS1,6OS2
+
+>  <UniProt (SwissProt) Recommended Name of Target Chain>  (1) 
+Type-1 angiotensin II receptor
+
+>  <UniProt (SwissProt) Entry Name of Target Chain>  (1) 
+AGTR1_RABIT
+
+>  <UniProt (SwissProt) Primary ID of Target Chain>  (1) 
+P34976
+
+>  <UniProt (SwissProt) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (SwissProt) Alternative ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Submitted Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Entry Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Primary ID of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Alternative ID(s) of Target Chain>  (1) 
+
+
+$$$$

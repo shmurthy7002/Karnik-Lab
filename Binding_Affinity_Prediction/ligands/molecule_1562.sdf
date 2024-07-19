@@ -1,0 +1,225 @@
+
+     RDKit          2D
+
+ 34 38  0  0  0  0  0  0  0  0999 V2000
+    3.0444   -2.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0432   -3.4315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7581   -3.8444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4745   -3.4310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4716   -2.6005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7563   -2.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1846   -2.1853    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9006   -2.5951    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7667   -1.4667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5917   -1.4667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6136   -2.1798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3932   -2.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8850   -1.7837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4070   -1.1112    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6198   -1.3581    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7100   -1.7922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6382   -3.2338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7509   -1.3692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4658   -0.9552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4637   -0.1310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7475    0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0319   -0.1389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0375   -0.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7439    1.1052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0275    1.5144    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0186    2.3363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2306    2.5806    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2488    1.2459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7539    1.9094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9339    1.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6076    1.0513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1076    0.3877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9259    0.4887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6801    2.8293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  8  1  0
+ 12 17  1  0
+  7  9  2  0
+ 18 19  2  0
+  4  5  2  0
+ 19 20  1  0
+  7 10  2  0
+ 20 21  2  0
+  2  3  2  0
+ 21 22  1  0
+  8 11  1  0
+ 22 23  2  0
+ 23 18  1  0
+  6 18  1  0
+ 11 12  2  0
+ 21 24  1  0
+  5  6  1  0
+ 24 25  1  0
+ 25 26  1  0
+  6  1  2  0
+  1  2  1  0
+ 26 27  2  0
+ 27 29  1  0
+ 28 25  1  0
+  5  7  1  0
+ 12 13  1  0
+ 28 29  2  0
+ 13 14  2  0
+ 29 30  1  0
+ 14 15  1  0
+ 30 31  2  0
+ 15 11  1  0
+ 31 32  1  0
+  3  4  1  0
+ 32 33  2  0
+ 33 28  1  0
+ 13 16  1  0
+ 26 34  1  0
+M  END
+>  <From>  (1) 
+www.bindingDB.org
+
+>  <BindingDB Reactant_set_id>  (1) 
+50945414
+
+>  <Ligand InChI>  (1) 
+InChI=1S/C26H24N4O3S/c1-17-18(2)28-33-26(17)29-34(31,32)25-11-7-4-8-22(25)21-14-12-20(13-15-21)16-30-19(3)27-23-9-5-6-10-24(23)30/h4-15,29H,16H2,1-3H3
+
+>  <Ligand InChI Key>  (1) 
+MCGCJFJGNKEDPW-UHFFFAOYSA-N
+
+>  <BindingDB MonomerID>  (1) 
+50387807
+
+>  <BindingDB Ligand Name>  (1) 
+CHEMBL2058367
+
+>  <Target Name>  (1) 
+Type-1 angiotensin II receptor
+
+>  <Target Source Organism According to Curator or DataSource>  (1) 
+Bos taurus
+
+>  <Ki (nM)>  (1) 
+
+
+>  <IC50 (nM)>  (1) 
+ 45
+
+>  <Kd (nM)>  (1) 
+
+
+>  <EC50 (nM)>  (1) 
+
+
+>  <kon (M-1-s-1)>  (1) 
+
+
+>  <koff (s-1)>  (1) 
+
+
+>  <pH>  (1) 
+
+
+>  <Temp C>  (1) 
+
+
+>  <Curation/DataSource>  (1) 
+ChEMBL
+
+>  <Article DOI>  (1) 
+10.1016/j.bmc.2012.06.011
+
+>  <BindingDB Entry DOI>  (1) 
+10.7270/Q2G73FS6
+
+>  <PMID>  (1) 
+22750010
+
+>  <PubChem AID>  (1) 
+
+
+>  <Patent Number>  (1) 
+
+
+>  <Authors>  (1) 
+Bai, R; Wei, Z; Liu, J; Xie, W; Yao, H; Wu, X; Jiang, J; Wang, Q; Xu, J
+
+>  <Institution>  (1) 
+China Pharmaceutical University
+
+>  <Link to Ligand in BindingDB>  (1) 
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50387807
+
+>  <Link to Ligand-Target Pair in BindingDB>  (1) 
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50387807&enzyme=Type-1+angiotensin+II+receptor&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Ligand HET ID in PDB>  (1) 
+
+
+>  <PDB ID(s) for Ligand-Target Complex>  (1) 
+
+
+>  <PubChem CID of Ligand>  (1) 
+70694736
+
+>  <PubChem SID of Ligand>  (1) 
+160866890
+
+>  <ChEBI ID of Ligand>  (1) 
+
+
+>  <ChEMBL ID of Ligand>  (1) 
+CHEMBL2058367
+
+>  <DrugBank ID of Ligand>  (1) 
+
+
+>  <IUPHAR_GRAC ID of Ligand>  (1) 
+
+
+>  <KEGG ID of Ligand>  (1) 
+
+
+>  <ZINC ID of Ligand>  (1) 
+ZINC84710536
+
+>  <Number of Protein Chains in Target (bigger than 1 implies a multichain complex)>  (1) 
+1
+
+>  <BindingDB Target Chain Sequence>  (1) 
+MILNSSTEDGIKRIQDDCPKAGRHNYIFIMIPTLYSIIFVVGIFGNSLVVIVIYFYMKLKTVASVFLLNLALADLCFLLTLPLWAVYTAMEYRWPFGNYLCKIASASVSFNLYASVFLLTCLSIDRYLAIVHPMKSRLRRTMLVAKVTCIIIWLLAGLASLPTIIHRNVFFIENTNITVCAFHYESQNSTLPVGLGLTKNILGFLFPFLIILTSYTLIWKTLKKAYEIQKNKPRKDDIFKIILAIVLFFFFSWVPHQIFTFMDVLIQLGLIRDCKIEDIVDTAMPITICLAYFNNCLNPLFYGFLGKKFKKYFLQLLKYIPPKAKSHSNLSTKMSTLSYRPSENGNSSTKKPAPCIEVE
+
+>  <PDB ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (SwissProt) Recommended Name of Target Chain>  (1) 
+Type-1 angiotensin II receptor
+
+>  <UniProt (SwissProt) Entry Name of Target Chain>  (1) 
+AGTR1_BOVIN
+
+>  <UniProt (SwissProt) Primary ID of Target Chain>  (1) 
+P25104
+
+>  <UniProt (SwissProt) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (SwissProt) Alternative ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Submitted Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Entry Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Primary ID of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Alternative ID(s) of Target Chain>  (1) 
+
+
+$$$$

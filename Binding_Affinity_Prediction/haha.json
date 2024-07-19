@@ -1,0 +1,28 @@
+[
+    {
+        "topological-torsion hybridization maccs ": [
+            "r2 test set 0.6880172890855383",
+            " r2 train set 0.7843019810662597",
+            "split state: 45",
+            "model state: 62"
+        ],
+        "topological-torsion hybridization cdk-substructure ": [
+            "r2 test set 0.67274288890693",
+            " r2 train set 0.779715875110907",
+            "split state: 45",
+            "model state: 62"
+        ],
+        "topological-torsion hybridization morgan ": [
+            "r2 test set 0.6677355667142926",
+            " r2 train set 0.7800723315014875",
+            "split state: 45",
+            "model state: 62"
+        ],
+        "topological-torsion hybridization morgan extended fp2 ": [
+            "r2 test set 0.6979301597479184",
+            " r2 train set 0.7967739148773776",
+            "split state: 45",
+            "model state: 62"
+        ]
+    }
+]

@@ -1,0 +1,221 @@
+
+     RDKit          2D
+
+ 32 36  0  0  0  0  0  0  0  0999 V2000
+    7.4917   -6.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5792   -5.2167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9917   -5.8917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3875   -5.6000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2875   -1.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3000   -6.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2875   -2.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -0.8917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9042   -7.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -2.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1167   -6.9542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8667   -2.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8667   -1.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9125   -6.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -3.3667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9917   -0.8917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1167   -5.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4917   -5.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2875   -3.7792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5000   -4.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9917   -0.0667    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.2792   -4.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9042   -5.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9917   -2.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1292   -7.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5292   -7.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7042   -2.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7125   -1.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1417   -0.8917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1417   -0.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5417   -8.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7417   -8.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  1  1  0
+  4  6  1  0
+  5  7  2  0
+  6  1  2  0
+  7 10  1  0
+  8 13  2  0
+  9  1  1  0
+ 10 15  1  0
+ 11  9  1  0
+ 12 10  2  0
+ 13 12  1  0
+ 14 11  1  0
+ 15 19  1  0
+ 16  5  1  0
+ 17 14  2  0
+ 18 14  1  0
+ 19 20  1  0
+ 20 22  1  0
+ 21 16  1  0
+ 22 18  2  0
+ 23 17  1  0
+ 24  7  1  0
+ 25  9  2  0
+ 26 11  2  0
+ 27 24  2  0
+ 28 27  1  0
+ 29 13  1  0
+ 30 29  1  0
+ 31 25  1  0
+ 32 31  2  0
+  2  4  2  0
+ 32 26  1  0
+ 23 20  2  0
+  8  5  1  0
+ 16 28  2  0
+M  END
+>  <From>  (1) 
+www.bindingDB.org
+
+>  <BindingDB Reactant_set_id>  (1) 
+50005369
+
+>  <Ligand InChI>  (1) 
+InChI=1S/C25H20ClN5O/c1-2-18-14-23(21-8-5-9-22(26)24(21)27-18)32-15-16-10-12-17(13-11-16)19-6-3-4-7-20(19)25-28-30-31-29-25/h3-14H,2,15H2,1H3,(H,28,29,30,31)
+
+>  <Ligand InChI Key>  (1) 
+NPGVOFMRLSPTIT-UHFFFAOYSA-N
+
+>  <BindingDB MonomerID>  (1) 
+50003384
+
+>  <BindingDB Ligand Name>  (1) 
+8-Chloro-2-ethyl-4-[2'-(1H-tetrazol-5-yl)-biphenyl-4-ylmethoxy]-quinoline::CHEMBL130540
+
+>  <Target Name>  (1) 
+Type-1 angiotensin II receptor
+
+>  <Target Source Organism According to Curator or DataSource>  (1) 
+Cavia porcellus
+
+>  <Ki (nM)>  (1) 
+
+
+>  <IC50 (nM)>  (1) 
+ 140
+
+>  <Kd (nM)>  (1) 
+
+
+>  <EC50 (nM)>  (1) 
+
+
+>  <kon (M-1-s-1)>  (1) 
+
+
+>  <koff (s-1)>  (1) 
+
+
+>  <pH>  (1) 
+
+
+>  <Temp C>  (1) 
+
+
+>  <Curation/DataSource>  (1) 
+ChEMBL
+
+>  <Article DOI>  (1) 
+10.1021/jm00100a007
+
+>  <BindingDB Entry DOI>  (1) 
+10.7270/Q2G44P8Q
+
+>  <PMID>  (1) 
+1433210
+
+>  <PubChem AID>  (1) 
+
+
+>  <Patent Number>  (1) 
+
+
+>  <Authors>  (1) 
+Bradbury, RH; Allott, CP; Dennis, M; Fisher, E; Major, JS; Masek, BB; Oldham, AA; Pearce, RJ; Rankine, N; Revill, JM
+
+>  <Institution>  (1) 
+ICI Pharmaceuticals Group
+
+>  <Link to Ligand in BindingDB>  (1) 
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50003384
+
+>  <Link to Ligand-Target Pair in BindingDB>  (1) 
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50003384&enzyme=Type-1+angiotensin+II+receptor&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Ligand HET ID in PDB>  (1) 
+
+
+>  <PDB ID(s) for Ligand-Target Complex>  (1) 
+
+
+>  <PubChem CID of Ligand>  (1) 
+10412769
+
+>  <PubChem SID of Ligand>  (1) 
+103917357
+
+>  <ChEBI ID of Ligand>  (1) 
+
+
+>  <ChEMBL ID of Ligand>  (1) 
+CHEMBL130540
+
+>  <DrugBank ID of Ligand>  (1) 
+
+
+>  <IUPHAR_GRAC ID of Ligand>  (1) 
+
+
+>  <KEGG ID of Ligand>  (1) 
+
+
+>  <ZINC ID of Ligand>  (1) 
+ZINC13728698
+
+>  <Number of Protein Chains in Target (bigger than 1 implies a multichain complex)>  (1) 
+1
+
+>  <BindingDB Target Chain Sequence>  (1) 
+MILNSSTEDGIKRIQDDCPKAGRHSYIFVMIPTLYSIIFVVGIFGNSLVVIVIYFYMKLKTVASVFLLNLALADICFLLTLPLWAVYTAMEYRWPFGNYLCKIASASVSFNLYASVFLLTCLSIDRYLAIVHPMKSRLRRTMLVAKVTCVIIWLMAGLASLPAVIHRNVFFIENTNITVCAFHYESQNSTLPIGLGLTKNILGFMFPFLIILTSYTLIWKALKKAYEIQKNKPRNDDIFKIIMAIVLFFFFSWVPHQIFTFLDVLIQLGIIHDCKISDIVDTAMPITICIAYFNNCLNPLFYGFLGKKFKKYFLQLLKYIPPKAKSHSTLSTKMSTLSYRPSDNVSSSAKKPVQCFEVE
+
+>  <PDB ID(s) of Target Chain>  (1) 
+4ZUD
+
+>  <UniProt (SwissProt) Recommended Name of Target Chain>  (1) 
+Type-1 angiotensin II receptor
+
+>  <UniProt (SwissProt) Entry Name of Target Chain>  (1) 
+AGTR1_CAVPO
+
+>  <UniProt (SwissProt) Primary ID of Target Chain>  (1) 
+Q9WV26
+
+>  <UniProt (SwissProt) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (SwissProt) Alternative ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Submitted Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Entry Name of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Primary ID of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Secondary ID(s) of Target Chain>  (1) 
+
+
+>  <UniProt (TrEMBL) Alternative ID(s) of Target Chain>  (1) 
+
+
+$$$$
