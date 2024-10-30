@@ -1,0 +1,10 @@
+[
+    {
+        "topological-torsion hybridization morgan extended fp2 ": [
+            "r2 test set 0.8263184735800286",
+            " r2 train set 0.9254066813242515",
+            "split state: 242",
+            "model state: 267"
+        ]
+    }
+]
