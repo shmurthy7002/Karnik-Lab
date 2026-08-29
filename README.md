@@ -1,5 +1,5 @@
 This repo contains a pipeline i proposed and created in 10th and 11th grade that generates new candidate molecules for hypertension drugs, and then predicts their binding affinity to AT1R (how good the drug is).
-This research was done under the supervision of Dr. Sadashiva Karnik in his lab in the Cleveland Clinic, I wouldn't have got nearly as far as I did without the guidance provided by members of his lab.
+This research was done under the supervision of Dr. Sadashiva Karnik in his lab in the Cleveland Clinic, I wouldn't have got nearly as far as I did without the guidance provided by members of his lab (tysm if any of you are reading this).
 All code written in this repository is my own, certain guiding ideas/principles were given to me from lab members.
 
 Ngl there is a pretty decent chunk of stuff missing from here, 
